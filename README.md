@@ -8,7 +8,7 @@ Through analysis, I predict which team will pass the group stage for the group H
 - Uruguay
 - Ghana
 
-The analysis tells me that Portugal and Uruguay will pass the group stage.
+The [analysis](https://github.com/deep-deep-learning/2022-world-cup-data-analysis/blob/main/data_analysis.ipynb) tells me that Portugal and Uruguay will pass the group stage.
 
-###
-Todo: Do this for all the groups and predict the final winner
+### Todo
+Do the same for all the groups and predict the final winner
