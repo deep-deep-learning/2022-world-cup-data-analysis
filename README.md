@@ -10,5 +10,8 @@ Through analysis, I predict which team will pass the group stage for the group H
 
 The [analysis](https://github.com/deep-deep-learning/2022-world-cup-data-analysis/blob/main/data_analysis.ipynb) tells me that Portugal and Uruguay will pass the group stage.
 
-### Todo
-Do the same for all the groups and predict the final winner
+### Dependencies
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
